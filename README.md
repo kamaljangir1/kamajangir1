@@ -2,7 +2,7 @@
 
 Hey there! 👋 I'm Kamal Kumar, a passionate data scientist skilled in turning raw data into actionable insights. Here's a bit about me:
 
-- 🔬 Currently exploring the fascinating world of data science and machine learning.
+- 🔬 Currently exploring the fascinating world of data science and machine learning. 
 - 📊 Skilled in data analysis, statistical modeling, and predictive analytics.
 - 💻 Proficient in Python, R, SQL, and other data science tools and libraries.
 - 🌱 Always learning and seeking new challenges to grow my skills and knowledge.
