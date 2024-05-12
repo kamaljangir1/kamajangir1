@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/kamaljangi74354" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kamaljangi74354?logo=twitter&style=for-the-badge" alt="https://twitter.com/kamaljangi74354" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/kamalkumar1/home](https://sites.google.com/view/kamalkumar1/home)
+- 👨‍💻 My Portfolio [https://sites.google.com/view/kamalkumar1/home](https://sites.google.com/view/kamalkumar1/home)
 
 - 💬 Ask me about **Python, SQL, MS Excel, PowerBI**
 
