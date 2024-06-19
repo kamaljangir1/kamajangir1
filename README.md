@@ -7,7 +7,7 @@
 
 - 👋 My [Linkedin](https://www.linkedin.com/in/kamaljangir/)
 
-- 👨‍💻 My Portfolio [Portfolio](https://kamaljangir1.github.io/)
+- 👨‍💻 My [Portfolio](https://kamaljangir1.github.io/)
 
 - 💬 Ask me about **Python, SQL, MS Excel, PowerBI**
 
